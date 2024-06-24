@@ -1,0 +1,16 @@
+/* Fazer um programa em C que imprime uma tabela com a tabuada de 1 a 9 */
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <locale.h>
+
+int main(){
+
+int tab =1;
+  
+
+printf("****Tabela da tabuada do 9****"\n);
+printf("%d"tab*1);
+
+
+}
